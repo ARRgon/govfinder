@@ -4,10 +4,10 @@
 ### OS X
 If you have issues with file permissions use the `--user` flag in your `pip` commands instead of `sudo`.
 
-   pip install --upgrade pip
-   pip install virtualenv
-   pip install django
-   pip install gunicorn
+    pip install --upgrade pip
+    pip install virtualenv
+    pip install django
+    pip install gunicorn
 
 ## Run locally
 
