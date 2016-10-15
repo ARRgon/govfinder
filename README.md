@@ -1,3 +1,18 @@
+# ARRgon
+
+## Run locally
+
+    python manage.py runserver
+
+## Run on Heroku
+### Initial Heroku setup
+
+    heroku login
+    heroku create
+    git push heroku master
+
+
+
 # Heroku Django Starter Template
 
 An utterly fantastic project starter template for Django 1.9.
