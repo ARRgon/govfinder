@@ -1,5 +1,13 @@
 # ARRgon
 
+## Install Django
+### OS X
+
+   pip install --upgrade pip
+   pip install virtualenv
+   pip install django
+   pip install gunicorn
+
 ## Run locally
 
     python manage.py runserver
@@ -11,8 +19,7 @@
     heroku create
     git push heroku master
 
-
-
+(Following are the original instructions from the project as initialized by `django-admin startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile arrgon`)
 # Heroku Django Starter Template
 
 An utterly fantastic project starter template for Django 1.9.
