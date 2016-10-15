@@ -2,6 +2,7 @@
 
 ## Install Django
 ### OS X
+If you have issues with file permissions use the `--user` flag in your `pip` commands instead of `sudo`.
 
    pip install --upgrade pip
    pip install virtualenv
